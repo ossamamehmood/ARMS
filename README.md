@@ -1,10 +1,16 @@
-# Project Title :
-
-## Airline Reservations and Management System (ARMS)
+# Airline Reservations and Management System (ARMS)
 
 # Tables : 
 
-### Aeroplane - Passengers - Employee - Ticket - Flight
+- Aeroplane 
+
+- Passengers 
+
+- Employee 
+
+- Ticket 
+
+- Flight
 
 
 # Aeroplane: 
